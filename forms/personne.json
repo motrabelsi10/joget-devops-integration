@@ -33,7 +33,7 @@
                             "className": "",
                             "properties": {}
                         },
-                        "label": "prenom",
+                        "label": "prenom-prenom",
                         "disableIncrementDecrementArrow": "",
                         "readonly": "",
                         "size": "",
@@ -60,8 +60,7 @@
                         "readonly": "",
                         "size": "",
                         "workflowVariable": "",
-                        "style": "",
-                        "id": "age_2_2",
+                        "style": "",                        "id": "age_2_2",
                         "placeholder": "",
                         "value": "",
                         "readonlyLabel": "",
